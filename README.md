@@ -1,0 +1,1 @@
+# plugins-slate-admin-theme
